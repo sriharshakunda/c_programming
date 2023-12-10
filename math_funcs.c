@@ -16,6 +16,5 @@ int main(){
     printf("Squre root of %f & %f = %f,%f \n",a,b,sqrt(a),sqrt(b));
 
 
-
     return(0);
 }
